@@ -1,0 +1,15 @@
+# Data
+data/
+*.zip
+
+# Model checkpoints
+*.pth
+*.pt
+
+# Python junk
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# OS
+.DS_Store
